@@ -1,0 +1,185 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.menu-nav{
+    background-color: rgb(133, 133, 36);
+    width: 100vw;
+    height: 40px;
+}
+
+.menu-lista-container{
+    display: flex;
+    justify-content: space-around;
+}
+.menu-lista-container a {
+    text-decoration: none;
+    list-style: none;
+    margin-top: 8px;
+}
+
+.menu-item-child{
+    color: rgb(0, 0, 0);
+    font-size: 1.2rem;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cabecalho{
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    justify-content: center;
+    align-items: center;
+}
+.cabecalho div img{
+    width: 300px;
+    height:150px;
+}
+
+.cabecalho div h2{
+    color: gray;
+    font-size: 2rem;
+}
+
+main h1{
+    color: rgb(133, 133, 36);
+    text-align: center;
+}
+
+.main-busca{
+    display: flex;
+    margin: 30px auto;
+    justify-content: center;
+    gap: 15px;
+}
+
+.main-busca input{
+    width: 300px;
+    margin-top: 10px;
+    background-color: rgb(228, 210, 210);
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.main-busca button{
+    margin-top: 15px;
+    background-color: rgb(133, 133, 36);
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.main-busca button:hover{
+    background-color:rgb(209, 25, 22);
+    cursor: pointer;
+}
+
+.card-container{
+    background-color: rgb(0, 0, 0);
+    height: 350px;
+    margin: 30px auto;
+}
+.card h2{
+    margin: 50px;
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: #f8f38a;
+}
+
+.card p{
+    margin: 50px;
+    max-width: 350px;
+    text-align: justify;
+    font-size: 1.2rem;
+    color: #f8f38a;
+    text-indent: 20px;
+}
+
+.card img{
+    margin: 50px;
+}
+
+.card a{
+    margin: 50px;
+    color:#f8f38a;
+    text-decoration: none;
+    text-align: left;
+}
+
+.footer-lista{
+    color: rgb(133, 133, 36);
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.footer-itens{
+    list-style: none;
+}
+
+.footer-itens a {
+    color: rgb(133, 133, 36);
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.footer-itens a:hover{
+    color: white;
+}
+
+@media (max-width: 480px) {
+    header h1 {
+        /* Estilos para o h1 em telas com largura máxima de 480px */
+        font-size: 1rem;
+        /* Reduz ainda mais o tamanho da fonte */
+        max-width: 70%;
+        /* Define uma largura máxima */
+        word-wrap: break-word;
+        /* Permite a quebra de palavras longas */
+    }
+
+    div input,
+    /* Estilos para o input e seu placeholder em telas muito pequenas */
+    div input::placeholder {
+        font-size: 1rem;
+        /* Reduz o tamanho da fonte */
+    }
+
+    article h2 {
+        /* Estilos para o h2 do article em telas muito pequenas */
+        font-size: 1.3rem;
+        /* Reduz o tamanho da fonte */
+    }
+
+    div {
+        /* Estilos para a div do cabeçalho em telas muito pequenas */
+        display: flex;
+        /* Habilita flexbox */
+        align-items: center;
+        /* Alinha itens ao centro */
+        justify-content: center;
+        /* Centraliza itens */
+        flex-direction: column;
+        /* Organiza em coluna */
+        gap: 0.5rem;
+        /* Espaçamento entre os itens */
+    }
+
+    .footer {
+        /* Estilos para o rodapé em telas muito pequenas */
+        display: none;
+        /* Oculta o rodapé */
+    }
+
+    button {
+        /* Estilos para o botão em telas muito pequenas */
+        margin-top: 1rem;
+        /* Adiciona margem no topo */
+    }
+}

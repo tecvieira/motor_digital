@@ -1,0 +1,98 @@
+[
+    {
+        "nome": "Fiat",
+        "ano": 1899,
+        "descricao": "Acrônimo de Fabbrica Italiana Automobili Torino, foi fundada por Giovanni Agnelli. A marca tem forte presença no Brasil desde 1976, com a fábrica de Betim (MG), e é conhecida por seus carros populares e inovadores.",
+        "link": "https://www.fiat.com.br/"
+    },
+    {
+        "nome": "Ford",
+        "ano": 1903,
+        "descricao": "Fundada por Henry Ford, foi incorporada em 16 de junho de 1903. Revolucionou a indústria com a introdução da linha de montagem móvel em 1913, tornando os carros mais acessíveis.",
+        "link": "https://www.ford.com.br/"
+    },
+    {
+        "nome": "Audi",
+        "ano": 1909,
+        "descricao": "Fundada por August Horch, o nome 'Audi' é a tradução para o latim de seu sobrenome, que significa 'ouça' em alemão. O logotipo de quatro anéis simboliza a fusão de quatro fabricantes de automóveis alemães: Audi, DKW, Horch e Wanderer.",
+        "link": "https://www.audi.com.br/"
+    },
+    {
+        "nome": "Chevrolet",
+        "ano": 1911,
+        "descricao": "Fundada por Louis Chevrolet e William C. Durant, a marca pertence à General Motors. No Brasil desde 1925, é conhecida por modelos populares como o Opala, Chevette e Onix.",
+        "link": "https://www.chevrolet.com.br/"
+    },
+    {
+        "nome": "Masserati",
+        "ano": 1914,
+        "descricao": "O Tridente é um dos símbolos mais icônicos do mundo automotivo de luxo. Inspirado em Netuno, deus dos Mares. Está presente em todos os carros de corrida e de rua da Maserati.",
+        "link": "https://www.maserati.com/br/pt"
+    },
+    {
+        "nome": "BMW",
+        "ano": 1916,
+        "descricao": "A sigla significa 'Bayerische Motoren Werke' (Fábrica de Motores da Baviera). Fundada originalmente para produzir motores de avião, o logotipo circular representa as cores do estado da Baviera. ",
+        "link": "https://www.bmw.com.br/"
+    },
+    {
+        "nome": "Mercedes-Benz",
+        "ano": 1926,
+        "descricao": "O mundialmente famoso símbolo da Mercedes-Benz teve um início profético. Representando a triplicidade das atividades da Daimler, fabricante de motores para uso em terra, mar e ar.",
+        "link": "https://www.mercedes-benz.com.br/"
+    },
+    {
+        "nome": "Porsche",
+        "ano": 1931,
+        "descricao": "Fundada por Ferdinand Porsche, a marca é sinônimo de carros esportivos de alta performance, engenharia de precisão e um design icônico, exemplificado pelo lendário modelo 911.",
+        "link": "https://www.porsche.com/brazil/pt-br/"
+    },
+    {
+        "nome": "Nissan",
+        "ano": 1933,
+        "descricao": "Fundada no Japão, o nome 'Nissan' é uma abreviação de 'Nihon Sangyo'. A marca é conhecida por sua inovação, especialmente em veículos elétricos como o Leaf, e por modelos icônicos como o Skyline e o Z.",
+        "link": "https://www.nissan.com.br/"
+    },
+    {
+        "nome": "Toyota",
+        "ano": 1937,
+        "descricao": "Fundada por Kiichiro Toyoda, a empresa começou como uma subsidiária da empresa de teares de seu pai. É pioneira em tecnologias híbridas com o Prius e conhecida mundialmente pelo Sistema Toyota de Produção.",
+        "link": "https://www.toyota.com.br/"
+    },
+    {
+        "nome": "Volkswagen",
+        "ano": 1937,
+        "descricao": "Seu nome significa 'carro do povo' em alemão. A empresa foi criada para produzir o carro que se tornaria o Fusca. É um dos maiores grupos automotivos do mundo, proprietário de marcas como Audi, Porsche e Lamborghini.",
+        "link": "https://www.vw.com.br/"
+    },
+    {
+        "nome": "Ferrari",
+        "ano": 1939,
+        "descricao": "Fundada por Enzo Ferrari, a empresa construiu seu primeiro carro em 1940, mas é mais reconhecida a partir de 1947. Famosa por seus carros esportivos de luxo e seu sucesso na Fórmula 1, o 'cavalinho rampante' é um ícone global.",
+        "link": "https://www.ferrari.com/pt-BR"
+    },
+    {
+        "nome": "Kia",
+        "ano": 1944,
+        "descricao": "Fundada em 1944 na Coreia do Sul, a Kia começou fabricando peças de bicicleta e hoje é um dos maiores fabricantes de automóveis do mundo. Parte do Grupo Hyundai Motor, a marca é conhecida por seu design inovador e pela garantia de 5 anos oferecida no Brasil.",
+        "link": "https://www.kia.com.br/"
+    },
+    {
+        "nome": "Honda",
+        "ano": 1948,
+        "descricao": "Fundada por Soichiro Honda, a empresa começou produzindo motores para bicicletas no Japão pós-guerra. Hoje é uma das maiores fabricantes de motores do mundo, conhecida pela inovação e confiabilidade em carros e motocicletas.",
+        "link": "https://www.honda.com.br/"
+    },
+    {
+        "nome": "Lamborghini",
+        "ano": 1963,
+        "descricao": "Criada por Ferruccio Lamborghini com o objetivo de produzir um grande turismo que pudesse competir com a Ferrari. Seus carros são conhecidos pelo design agressivo e alto desempenho, com nomes frequentemente ligados a touros de briga.",
+        "link": "https://www.lamborghini.com/en-en"
+    },
+    {
+        "nome": "Hyundai",
+        "ano": 1967,
+        "descricao": "Fundada por Chung Ju-yung na Coreia do Sul, a Hyundai Motor Company cresceu rapidamente para se tornar uma das maiores fabricantes de automóveis do mundo. A marca é conhecida por seu design moderno, tecnologia e uma gama diversificada de veículos.",
+        "link": "https://www.hyundai.com.br/"
+    }
+]
